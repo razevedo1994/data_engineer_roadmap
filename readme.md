@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-razevedo1994-red.svg)](https://www.linkedin.com/in/azevedo94/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
+[![author](https://img.shields.io/badge/author-razevedo1994-red.svg)](https://www.linkedin.com/in/azevedo94/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/razevedo1994/data_engineer_roadmap/issues)
 
 # Data Engineer Roadmap
 
