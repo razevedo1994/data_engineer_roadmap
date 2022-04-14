@@ -5,51 +5,51 @@
 Created by: [Rodrigo Azevedo](https://www.linkedin.com/in/azevedo94/)
 
 
-`YouTube`[How Data Engineering Works](https://www.youtube.com/watch?v=qWru-b6m030)
+- `YouTube` [How Data Engineering Works](https://www.youtube.com/watch?v=qWru-b6m030)
 
 
 ### Code versioning
 
-[What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
-[Versionamento Semântico](https://semver.org/lang/pt-BR/)
-`YouTube`[CURSO COMPLETO DE GIT (2 HORAS E 30 MINUTOS)](https://www.youtube.com/watch?v=OuOb1_qADBQ)
+- [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [Versionamento Semântico](https://semver.org/lang/pt-BR/)
+- `YouTube` [CURSO COMPLETO DE GIT (2 HORAS E 30 MINUTOS)](https://www.youtube.com/watch?v=OuOb1_qADBQ)
 
 
 ### Programming Language
 
-`LinuxTips`[Python Base](https://www.linuxtips.io/products/python-base)
-`YouTube`[Python for Data Engineering](https://www.youtube.com/watch?v=yl3uoL050gw&list=PL50mYnndduIHs5KReaz7F7aSelC-zG2zP)
-`Udemy`[Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-1OxN5idcVF_YM1Xge1wiYg&utm_source=aff-campaign&LSNPUBID=HTtUFxqit0c&utm_medium=udemyads)
+- `LinuxTips` [Python Base](https://www.linuxtips.io/products/python-base)
+- `YouTube` [Python for Data Engineering](https://www.youtube.com/watch?v=yl3uoL050gw&list=PL50mYnndduIHs5KReaz7F7aSelC-zG2zP)
+- `Udemy` [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-1OxN5idcVF_YM1Xge1wiYg&utm_source=aff-campaign&LSNPUBID=HTtUFxqit0c&utm_medium=udemyads)
 
 
 ### SQL
 
-`Twitch`[Curso de SQL do Zero - Teo Calvo](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA)
-`Udemy`[The Complete SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-yn4syphFt3wsdlQl_2Sl0g&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=HTtUFxqit0c)
-`YouTube`[SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+- `Twitch` [Curso de SQL do Zero - Teo Calvo](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA)
+- `Udemy` [The Complete SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-yn4syphFt3wsdlQl_2Sl0g&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=HTtUFxqit0c)
+- `YouTube` [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 
 ### Linux
 
-`YouTube`[Linux Command Line Full course](https://www.youtube.com/watch?v=2PGnYjbYuUo)
-`Udemy`[Linux for Beginners](https://www.udemy.com/course/linux-for-beginners-2021/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-hFZAmF_V4qoQMac49XY_Wg&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads)
+- `YouTube` [Linux Command Line Full course](https://www.youtube.com/watch?v=2PGnYjbYuUo)
+- `Udemy` [Linux for Beginners](https://www.udemy.com/course/linux-for-beginners-2021/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-hFZAmF_V4qoQMac49XY_Wg&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads)
 
 
 ### HTTP/HTTPS
 
-`YouTube`[HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+- `YouTube` [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 
 ### API's
 
-`YouTube`[APIs for Beginners - How to use an API](https://www.youtube.com/watch?v=GZvSYJDk-us&t=6965s)
-`Youtube`[What Is A RESTful API? Explanation of REST & HTTP](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
+- `YouTube` [APIs for Beginners - How to use an API](https://www.youtube.com/watch?v=GZvSYJDk-us&t=6965s)
+- `Youtube` [What Is A RESTful API? Explanation of REST & HTTP](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
 
 
 ### Docker
 
-`YouTube`[Docker Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
-`YouTube`[Docker Compose Tutorial](https://www.youtube.com/watch?v=HG6yIjZapSA)
+- `YouTube` [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- `YouTube` [Docker Compose Tutorial](https://www.youtube.com/watch?v=HG6yIjZapSA)
 
 
 | Concepts                                                                                                                                |
@@ -67,28 +67,28 @@ Created by: [Rodrigo Azevedo](https://www.linkedin.com/in/azevedo94/)
 
 ### Big Data Fundamentals
 
-`Udemy`[The Hadoop Ecosystem](https://www.udemy.com/course/learn-big-data-the-hadoop-ecosystem-masterclass/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-cjIFaJzEck5Pdp99WCBpew&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads)
+- `Udemy` [The Hadoop Ecosystem](https://www.udemy.com/course/learn-big-data-the-hadoop-ecosystem-masterclass/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-cjIFaJzEck5Pdp99WCBpew&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads)
 
 ### Data Warehouse
 
-`Udemy`[Data Warehouse Fundamentals for Beginners](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-5Cssseb5O_hSY2lvbFd3bQ&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads)
+- `Udemy` [Data Warehouse Fundamentals for Beginners](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-5Cssseb5O_hSY2lvbFd3bQ&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads)
 
 
 ### Data Orchestration
 
-`Udemy`[The Complete Hands-On Introduction to Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-RLnxYMmqet2OlocFyF.SdQ&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads)
-`Udemy`[Apache Airflow: The Hands-On Guide](https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/)
-`YouTube`[Supletivo DH - Apache Airflow](https://www.youtube.com/watch?v=f_lnDBR3rFU&t=468s)
+- `Udemy` [The Complete Hands-On Introduction to Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-RLnxYMmqet2OlocFyF.SdQ&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads)
+- `Udemy` [Apache Airflow: The Hands-On Guide](https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/)
+- `YouTube` [Supletivo DH - Apache Airflow](https://www.youtube.com/watch?v=f_lnDBR3rFU&t=468s)
 
 
 ### Big Data Processing
 
-`Udemy`[Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-qofM41MCAbjZoB0kUD_6vA&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads)
+- `Udemy` [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-qofM41MCAbjZoB0kUD_6vA&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads)
 
 
 ### Cloud
 
-`Udemy`[AWS](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-B0OpiE6Fs4IfdBOSfTrANg&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=HTtUFxqit0c)
+- `Udemy` [AWS](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-B0OpiE6Fs4IfdBOSfTrANg&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=HTtUFxqit0c)
 
 
 
