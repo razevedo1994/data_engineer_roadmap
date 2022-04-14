@@ -12,7 +12,7 @@ Created by: [Rodrigo Azevedo](https://www.linkedin.com/in/azevedo94/)
 
 - [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
 - [Versionamento Semântico](https://semver.org/lang/pt-BR/)
-- `YouTube` [CURSO COMPLETO DE GIT (2 HORAS E 30 MINUTOS)](https://www.youtube.com/watch?v=OuOb1_qADBQ)
+- `YouTube` [Curso completo de GIT](https://www.youtube.com/watch?v=OuOb1_qADBQ)
 
 
 ### Programming Language
