@@ -22,6 +22,12 @@ Created by: [Rodrigo Azevedo](https://www.linkedin.com/in/azevedo94/)
 - `Udemy` [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-1OxN5idcVF_YM1Xge1wiYg&utm_source=aff-campaign&LSNPUBID=HTtUFxqit0c&utm_medium=udemyads)
 
 
+### Python Virtual Environments
+
+- `YouTube`[Ambientes virtuais e instalação de bibliotecas](https://www.youtube.com/watch?v=naGF7EIUFp0)
+- `Real Python`[Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
+
+
 ### SQL
 
 - `Twitch` [Curso de SQL do Zero - Teo Calvo](https://www.twitch.tv/collections/1GD1BC-Y3BbhgA)
