@@ -73,6 +73,7 @@ Created by: [Rodrigo Azevedo](https://www.linkedin.com/in/azevedo94/)
 
 ### Big Data Fundamentals
 
+- `YouTube`[Big Data Tutorial For Beginners](https://www.youtube.com/watch?v=16Z2WRtoO8Y)
 - `Udemy` [The Hadoop Ecosystem](https://www.udemy.com/course/learn-big-data-the-hadoop-ecosystem-masterclass/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-cjIFaJzEck5Pdp99WCBpew&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads)
 
 ### Data Warehouse
