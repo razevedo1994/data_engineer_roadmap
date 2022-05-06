@@ -39,6 +39,12 @@ Created by: [Rodrigo Azevedo](https://www.linkedin.com/in/azevedo94/)
 
 - `YouTube` [Linux Command Line Full course](https://www.youtube.com/watch?v=2PGnYjbYuUo)
 - `Udemy` [Linux for Beginners](https://www.udemy.com/course/linux-for-beginners-2021/?ranMID=39197&ranEAID=HTtUFxqit0c&ranSiteID=HTtUFxqit0c-hFZAmF_V4qoQMac49XY_Wg&LSNPUBID=HTtUFxqit0c&utm_source=aff-campaign&utm_medium=udemyads)
+- [Shell Script: Introdução e Como Automatizar Tarefas](https://www.alura.com.br/artigos/automatizando-tarefas-com-shell-script)
+- [Introduction to automation with Bash scripts](https://opensource.com/article/19/12/automation-bash-scripts)
+- [Bash Automation & Scripting Basics](https://www.howtogeek.com/devops/bash-automation-scripting-basics-part-1/)
+- [27 Simple Bash Scripting Tips for Beginners](https://betterprogramming.pub/27-simple-bash-scripting-tips-for-beginners-d6764c977546)
+- [The Ultimate Programmer’s Guide to Bash Scripting](https://betterprogramming.pub/the-ultimate-programmers-guide-to-bash-scripting-2d11d4e6e978)
+- [8 Bash Script Tips for Automation Projects](https://towardsdatascience.com/8-bash-script-tips-for-automation-projects-2c63d8716f9a)
 
 
 ### HTTP/HTTPS
