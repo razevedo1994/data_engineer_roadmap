@@ -66,6 +66,8 @@ Created by: [Rodrigo Azevedo](https://www.linkedin.com/in/azevedo94/)
 
 | Concepts                                                                                                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------|
+| [Big Data: Entenda mais sobre esse conceito](https://www.alura.com.br/artigos/big-data)                                                 |
+| [Data Lake vs Data Warehouse](https://www.alura.com.br/artigos/data-lake-vs-data-warehouse)                                             |
 | [Data Modeling](https://medium.com/sagar-explains-azure-and-analytics-data-engineerin/introduction-to-data-modelling-c0c44432ec0b)      |
 | [Data Warehouse](https://www.analytics8.com/blog/what-is-a-data-warehouse/)                                                             |
 | [Data Lake](https://www.youtube.com/watch?v=RQOXkuirWF0)                                                                                |
