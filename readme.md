@@ -63,6 +63,11 @@ Created by: [Rodrigo Azevedo](https://www.linkedin.com/in/azevedo94/)
 - [Começando com Docker](https://www.alura.com.br/artigos/comecando-com-docker)
 - `YouTube` [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
 - `YouTube` [Docker Compose Tutorial](https://www.youtube.com/watch?v=HG6yIjZapSA)
+- [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
+- [Dockerfile: principais comandos e instruções](https://dev.to/soutoigor/dockerfile-principais-comandos-e-instrucoes-2jpp)
+- [Docker: Desvendando o DockerFile](https://www.alura.com.br/artigos/desvendando-o-dockerfile?gclid=Cj0KCQjwsdiTBhD5ARIsAIpW8CIz8NZVdIX37M4d2e0VzHUwx7UC2G9D1Lh_gKzbHtkgRJazXZpnxxwaAvmIEALw_wcB)
+- [Dockerfile - Principais comandos para criar a receita da imagem](https://blog.rocketseat.com.br/dockerfile-principais-comandos-para-criar-a-receita-da-imagem/)
+- [Dockerfile cheat sheets](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index)
 
 
 | Concepts                                                                                                                                |
