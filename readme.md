@@ -60,6 +60,7 @@ Created by: [Rodrigo Azevedo](https://www.linkedin.com/in/azevedo94/)
 
 ### Docker
 
+- [Começando com Docker](https://www.alura.com.br/artigos/comecando-com-docker)
 - `YouTube` [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
 - `YouTube` [Docker Compose Tutorial](https://www.youtube.com/watch?v=HG6yIjZapSA)
 
